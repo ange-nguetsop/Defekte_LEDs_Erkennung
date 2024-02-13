@@ -21,6 +21,8 @@ Das Training des Modells erfolgte gemäß den detaillierten Anleitungen von Robo
 
 ## Verwechslungsmatrix
 Die Analyse der Verwechslungsmatrix hat gezeigt, dass das Modell in der Lage ist, defekte LEDs mit einer Genauigkeit von 99,0\% unter einem Set funktionierender LEDs zu identifizieren.
+[!Alt]{https://github.com/ange-nguetsop/Defekte_LEDs_Recognition/blob/main/ConfusionMatrixLED.png}
 
 ## Ergebnis 
 Die nach dem Training erzielten Ergebnisse demonstrieren die Zuverlässigkeit und Effektivität des Modells bei der Erkennung defekter LEDs und unterstreichen somit das Potenzial des maschinellen Lernens bei der Optimierung industrieller Prozesse.
+[!Alt]{https://github.com/ange-nguetsop/Defekte_LEDs_Recognition/blob/main/Result.png}
