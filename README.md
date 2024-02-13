@@ -1,4 +1,4 @@
-# Defekte_LEDs_Recognition
+# Defekte_LEDs_Erkennung
 
 ## Introduction
 
