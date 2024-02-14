@@ -26,3 +26,10 @@ Die Analyse der Verwechslungsmatrix hat gezeigt, dass das Modell in der Lage ist
 ## Ergebnis 
 Die nach dem Training erzielten Ergebnisse demonstrieren die Zuverlässigkeit und Effektivität des Modells bei der Erkennung defekter LEDs und unterstreichen somit das Potenzial des maschinellen Lernens bei der Optimierung industrieller Prozesse.
 ![Alt](https://github.com/ange-nguetsop/Defekte_LEDs_Recognition/blob/main/Result.png)
+
+## Anwendung
+Ein solches Bildverarbeitungssystem, das auf der Analyse von Bildern aus einem spezifischen Verzeichnis basiert, könnte in der Automobilindustrie eine hochgradig innovative und effiziente Anwendung finden, insbesondere im Kontext der Qualitätssicherung und Funktionsprüfung von LED-basierten Beleuchtungssystemen in Fahrzeugen.
+
+In der modernen Automobilherstellung sind LED-Leuchtsysteme aufgrund ihrer hohen Effizienz, Langlebigkeit und der Möglichkeit zur Realisierung komplexer Beleuchtungsmuster weit verbreitet. Diese Systeme spielen eine entscheidende Rolle in Bezug auf die Sicherheit, Ästhetik und Funktionalität der Fahrzeuge. Dementsprechend ist es von äußerster Wichtigkeit, sicherzustellen, dass jede einzelne LED innerhalb dieser Systeme fehlerfrei funktioniert, um die Einhaltung strenger Qualitätsstandards zu gewährleisten.
+
+Ein automatisiertes Bildverarbeitungssystem könnte in diesem Kontext eingesetzt werden, um die Integrität und Funktionalität jedes LED-Elements innerhalb eines Fahrzeugs zu überprüfen. Durch die Analyse von Bildern der beleuchteten LED-Systeme könnte das System Unregelmäßigkeiten wie nicht funktionierende LEDs. 
