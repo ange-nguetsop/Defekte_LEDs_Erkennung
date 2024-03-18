@@ -19,8 +19,8 @@ Für weitere Informationen über Roboflow und YOLOv5 wird empfohlen, deren jewei
 
 Das Training des Modells erfolgte gemäß den detaillierten Anleitungen von Roboflow, die in ihrer offiziellen Dokumentation zugänglich sind. 
 
-## Verwechslungsmatrix
-Die Analyse der Verwechslungsmatrix hat gezeigt, dass das Modell in der Lage ist, defekte LEDs mit einer Genauigkeit von 99,0\% unter einem Set funktionierender LEDs zu identifizieren.
+## Konfusionsmatrix
+Die Analyse der Konfusionsmatrix hat gezeigt, dass das Modell in der Lage ist, defekte LEDs mit einer Genauigkeit von 99,0\% unter einem Set funktionierender LEDs zu identifizieren.
 ![Alt](https://github.com/ange-nguetsop/Defekte_LEDs_Recognition/blob/main/ConfusionMatrixLED.png)
 
 ## Ergebnis 
